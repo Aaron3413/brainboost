@@ -8,7 +8,7 @@ source.exclude_dirs = bin,.buildozer,.venv,venv,__pycache__,.git
 version = 1.0.0
 
 # Kivy 2.4.0 as requested; everything else is the Python standard library
-requirements = python3,kivy==2.4.0
+requirements = python3,kivy==2.3.1
 
 orientation = portrait
 fullscreen = 0
