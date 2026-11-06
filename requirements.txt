@@ -1,2 +1,2 @@
 # Desktop testing:  pip install -r requirements.txt && python main.py
-kivy==2.4.0
+kivy==2.3.1
